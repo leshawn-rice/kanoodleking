@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://kanoodleking.com/static/css/main.a617e044.chunk.css",
+    "main.js": "https://kanoodleking.com/static/js/main.c3bde7af.chunk.js",
+    "main.js.map": "https://kanoodleking.com/static/js/main.c3bde7af.chunk.js.map",
+    "runtime-main.js": "https://kanoodleking.com/static/js/runtime-main.d0e2d158.js",
+    "runtime-main.js.map": "https://kanoodleking.com/static/js/runtime-main.d0e2d158.js.map",
+    "static/js/2.f2352593.chunk.js": "https://kanoodleking.com/static/js/2.f2352593.chunk.js",
+    "static/js/2.f2352593.chunk.js.map": "https://kanoodleking.com/static/js/2.f2352593.chunk.js.map",
+    "static/js/3.8063ff93.chunk.js": "https://kanoodleking.com/static/js/3.8063ff93.chunk.js",
+    "static/js/3.8063ff93.chunk.js.map": "https://kanoodleking.com/static/js/3.8063ff93.chunk.js.map",
+    "index.html": "https://kanoodleking.com/index.html",
+    "static/css/main.a617e044.chunk.css.map": "https://kanoodleking.com/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f2352593.chunk.js.LICENSE.txt": "https://kanoodleking.com/static/js/2.f2352593.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "https://kanoodleking.com/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0e2d158.js",
+    "static/js/2.f2352593.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.c3bde7af.chunk.js"
+  ]
+}
