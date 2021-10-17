@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://kanoodleking.com/static/css/main.07acf60d.chunk.css",
-    "main.js": "https://kanoodleking.com/static/js/main.d8c1d56f.chunk.js",
-    "main.js.map": "https://kanoodleking.com/static/js/main.d8c1d56f.chunk.js.map",
-    "runtime-main.js": "https://kanoodleking.com/static/js/runtime-main.82c22971.js",
-    "runtime-main.js.map": "https://kanoodleking.com/static/js/runtime-main.82c22971.js.map",
-    "static/js/2.e0a741dc.chunk.js": "https://kanoodleking.com/static/js/2.e0a741dc.chunk.js",
-    "static/js/2.e0a741dc.chunk.js.map": "https://kanoodleking.com/static/js/2.e0a741dc.chunk.js.map",
+    "main.js": "https://kanoodleking.com/static/js/main.603df9a7.chunk.js",
+    "main.js.map": "https://kanoodleking.com/static/js/main.603df9a7.chunk.js.map",
+    "runtime-main.js": "https://kanoodleking.com/static/js/runtime-main.a037cdaa.js",
+    "runtime-main.js.map": "https://kanoodleking.com/static/js/runtime-main.a037cdaa.js.map",
+    "static/js/2.1696c22a.chunk.js": "https://kanoodleking.com/static/js/2.1696c22a.chunk.js",
+    "static/js/2.1696c22a.chunk.js.map": "https://kanoodleking.com/static/js/2.1696c22a.chunk.js.map",
     "index.html": "https://kanoodleking.com/index.html",
     "static/css/main.07acf60d.chunk.css.map": "https://kanoodleking.com/static/css/main.07acf60d.chunk.css.map",
-    "static/js/2.e0a741dc.chunk.js.LICENSE.txt": "https://kanoodleking.com/static/js/2.e0a741dc.chunk.js.LICENSE.txt"
+    "static/js/2.1696c22a.chunk.js.LICENSE.txt": "https://kanoodleking.com/static/js/2.1696c22a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.82c22971.js",
-    "static/js/2.e0a741dc.chunk.js",
+    "static/js/runtime-main.a037cdaa.js",
+    "static/js/2.1696c22a.chunk.js",
     "static/css/main.07acf60d.chunk.css",
-    "static/js/main.d8c1d56f.chunk.js"
+    "static/js/main.603df9a7.chunk.js"
   ]
 }
