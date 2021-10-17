@@ -1,5 +1,5 @@
 {
-  "name": "kanoodle-king",
+  "name": "kanoodleking",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://www.kanoodleking.com/",
@@ -13,8 +13,9 @@
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
-    "sass": "^1.43.2",
-    "web-vitals": "^1.1.0"
+    "web-vitals": "^1.1.0",
+    "immer": ">=9.0.6",
+    "set-value": ">=4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
